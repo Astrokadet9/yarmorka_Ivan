@@ -1,0 +1,66 @@
+
+h1 {
+    text-align: center;
+    background-color: #00CED1 ;
+}
+
+body{
+    background-color: #333333;
+}
+h2{
+    text-align: center;
+    background-color: #00CED1;
+}
+
+h3{
+    text-align: center;
+    background-color: #00CED1;
+}
+
+.pups{
+    width: 200px;
+    display: flex;
+    flex-wrap: wrap;
+     
+    
+}
+
+p{
+    background-color: #00CED1;
+    width: 200px;
+    padding: 10px;
+}
+
+article {
+    width: 200px;
+}
+
+section{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+
+}
+
+.pups:hover{
+    transform: scale(1.1);
+    transition: all 1s;
+    border: 10px #00CED1 solid ;
+}
+
+table{
+    border: 2px solid white;
+    border-collapse: collapse;
+}
+
+td{
+    border: 2px solid white;
+    padding: 5px;
+}
+
+.r{
+    width: 200px;
+    display: flex;
+    border-radius: 400%;
+
+}
