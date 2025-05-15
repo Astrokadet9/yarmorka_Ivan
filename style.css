@@ -51,6 +51,7 @@ section{
 table{
     border: 2px solid white;
     border-collapse: collapse;
+    color: #00CED1
 }
 
 td{
